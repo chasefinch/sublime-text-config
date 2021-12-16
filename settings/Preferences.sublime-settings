@@ -30,7 +30,7 @@
 		"*.db",
 		"*.sublime-workspace",
 		"static/*.css",
-		"static/*.js"
+		"static/*.js",
 	],
 	"folder_exclude_patterns":
 	[
@@ -44,7 +44,7 @@
 		"node_modules",
 		".git",
 		"bin",
-		"lib"
+		"lib",
 	],
 	"font_face": "SF Mono Regular",
 	"font_options":
@@ -54,10 +54,6 @@
 	"font_size": 13,
 	"margin": 0,
 	"hot_exit": true,
-	"ignored_packages":
-	[
-		"Vintage",
-	],
 	"line_padding_top": 1,
 	"show_definitions": true,
 	"show_full_path": true,

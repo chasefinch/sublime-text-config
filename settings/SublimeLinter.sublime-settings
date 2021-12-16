@@ -3,7 +3,7 @@
 	"linters": {
 		"flake8": {
 			"working_dir": "${folder:$file_path}",
-			"python": "${folder:$file_path}/bin/python"
+			"python": "${folder:$file_path}/bin/python",
 		},
 		"eslint": {
 			"working_dir": "${folder:$file_path}",

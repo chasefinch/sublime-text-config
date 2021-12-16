@@ -6,7 +6,4 @@
 	"translates_tabs_to_spaces": true,
 	"detect_indentation": true,
 	"ensure_newline_at_eof_on_save": true,
-	"extensions":
-	[
-	],
 }
