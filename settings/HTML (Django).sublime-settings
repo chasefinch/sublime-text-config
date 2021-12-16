@@ -1,6 +1,6 @@
 {
 	"detect_indentation": true,
 	"tab_size": 4,
-	"translates_tabs_to_spaces": true,
+	"translates_tabs_to_spaces": false,
 	"word_wrap": true,
 }
