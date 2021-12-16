@@ -42,7 +42,6 @@ Here are the details of my Sublime Text installation. Enjoy! 👊
 - [Python Django.sublime-settings](/settings/Python%20Django.sublime-settings)
 - [Python.sublime-settings](/settings/Python.sublime-settings)
 - [reStructuredText.sublime-settings](/settings/reStructuredText.sublime-settings)
-- [Sublime Linter.sublime-settings](/settings/Sublime%20Linter.sublime-settings)
 
 **Package Settings**:
 - [GitGutter.sublime-settings](/settings/GitGutter.sublime-settings)
