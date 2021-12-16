@@ -1,6 +1,8 @@
 # Sublime Text Configuration Notes
 
-Here are the details of my Sublime Text installation.
+Here are the details of my Sublime Text installation. Enjoy! 👊
+
+*Last updated 12/16/2021*
 
 ## Packages (installed with Package Control)
 
