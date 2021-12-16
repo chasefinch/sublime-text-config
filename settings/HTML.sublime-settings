@@ -1,0 +1,10 @@
+{
+	"detect_indentation": true,
+	"extensions":
+	[
+		"html",
+	],
+	"tab_size": 4,
+	"translates_tabs_to_spaces": true,
+	"word_wrap": true,
+}

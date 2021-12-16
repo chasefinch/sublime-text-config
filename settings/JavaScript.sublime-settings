@@ -1,0 +1,7 @@
+// These settings override both User and Default settings for the JavaScript syntax
+{
+	"word_wrap": true,
+	"tab_size": 4,
+	"translates_tabs_to_spaces": true,
+	"detect_indentation": false,
+}

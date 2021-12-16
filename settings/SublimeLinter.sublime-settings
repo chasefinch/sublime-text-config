@@ -1,0 +1,14 @@
+// SublimeLinter Settings - User
+{
+    "debug": false,
+    "linters": {
+        "flake8": {
+          "working_dir": "${folder:$file_path}",
+          "python": "${folder:$file_path}/bin/python"
+        },
+        "eslint": {
+            "working_dir": "${folder:$file_path}",
+        },
+    },
+    "delay": 0.5,
+}
