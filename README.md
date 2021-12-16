@@ -24,6 +24,7 @@ Here are the details of my Sublime Text installation.
 ## Preferences
 
 **Theme:** Boxy Yesterday (SL)
+
 **Color Scheme:** Mac Classic (SL)
 
 ## Settings
