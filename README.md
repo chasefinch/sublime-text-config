@@ -45,5 +45,6 @@ Here are the details of my Sublime Text installation. Enjoy! 👊
 
 **Package Settings**:
 - [GitGutter.sublime-settings](/settings/GitGutter.sublime-settings)
+- [PyCover.sublime-settings](/settings/PyCover.sublime-settings)
 - [SublimeLinter.sublime-settings](/settings/SublimeLinter.sublime-settings)
 
