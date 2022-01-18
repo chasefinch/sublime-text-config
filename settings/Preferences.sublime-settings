@@ -2,13 +2,12 @@
 	"bold_folder_labels": true,
 	"caret_style": "blink",
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/User/SublimeLinter/Mac Classic (SL).tmTheme",
+	"color_scheme": "auto",
 	"copy_with_empty_selection": false,
 	"create_window_at_startup": false,
 	"drag_text": false,
 	"draw_unicode_white_space": "all",
-	"file_exclude_patterns":
-	[
+	"file_exclude_patterns": [
 		"*.pyc",
 		"*.pyo",
 		"*.exe",
@@ -29,11 +28,13 @@
 		"*.psd",
 		"*.db",
 		"*.sublime-workspace",
-		"static/*.css",
-		"static/*.js",
+		"bringfido/static/css/*",
+		"bringfido/static/js/*",
+		"bringfido/templates/_elements/styles/*",
+		"bringfido/templates/_elements/scripts/*",
+		"bringfido/static/fonts/*",
 	],
-	"folder_exclude_patterns":
-	[
+	"folder_exclude_patterns": [
 		".svn",
 		".git",
 		".hg",
@@ -47,17 +48,16 @@
 		"lib",
 	],
 	"font_face": "SF Mono Regular",
-	"font_options":
-	[
+	"font_options": [
 		"standardandtialias"
 	],
-	"font_size": 13,
+	"font_size": 14,
 	"margin": 0,
 	"hot_exit": true,
 	"line_padding_top": 1,
 	"show_definitions": true,
 	"show_full_path": true,
-	"theme": "Boxy Yesterday.sublime-theme",
+	"theme": "auto",
 	"theme_dirty_accent_blue": true,
 	"theme_icons_materialized": true,
 	"theme_sidebar_border": true,
@@ -71,4 +71,11 @@
 	"trim_trailing_white_space_on_save": "not_on_caret",
 	"trim_only_modified_white_space": false,
 	"word_wrap": false,
+	"ignored_packages": [
+		"Vintage",
+	],
+	"dark_theme": "Boxy Tomorrow.sublime-theme",
+	"light_theme": "Boxy Yesterday.sublime-theme",
+	"dark_color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+	"light_color_scheme": "Packages/User/SublimeLinter/Mac Classic (SL).tmTheme",
 }
