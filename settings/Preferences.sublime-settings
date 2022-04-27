@@ -46,6 +46,7 @@
 		".git",
 		"bin",
 		"lib",
+		"__pycache__",
 	],
 	"font_face": "SF Mono Regular",
 	"font_options": [
