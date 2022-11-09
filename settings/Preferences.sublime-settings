@@ -44,6 +44,7 @@
 		"min",
 		"node_modules",
 		".git",
+		".mypy_cache",
 		"bin",
 		"lib",
 		"__pycache__",
@@ -52,7 +53,7 @@
 	"font_options": [
 		"standardandtialias"
 	],
-	"font_size": 14,
+	"font_size": 13,
 	"margin": 0,
 	"hot_exit": true,
 	"line_padding_top": 1,
