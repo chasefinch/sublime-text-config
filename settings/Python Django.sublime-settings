@@ -1,6 +1,6 @@
 {
 	"word_wrap": true,
-	"wrap_width": 99,
+	"wrap_width": 100,
 	"rulers": [79, 99, 99.2],
 	"tab_size": 4,
 	"translates_tabs_to_spaces": true,
